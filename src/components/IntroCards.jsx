@@ -1,4 +1,4 @@
-import '../styles/IntroCards.css'
+//import '../styles/IntroCards.css'
 import { AiFillForward } from "react-icons/ai";
 import { BiChevronLeft } from "react-icons/bi";
 import { BiChevronRight } from "react-icons/bi";
